@@ -1,0 +1,16 @@
+bat
+clang-format
+highlight
+libav
+opencv
+pkg-config
+texi2html
+tmux
+uncrustify
+vim
+yarn
+yasm
+you-get
+youtube-dl
+zsh
+zsh-completions

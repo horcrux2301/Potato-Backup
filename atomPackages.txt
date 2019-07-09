@@ -1,0 +1,21 @@
+[36mCommunity Packages (19)[39m /Users/harshkhajuria/.atom/packages
+├── AFCP@0.8.20
+├── atom-beautify@0.33.4
+├── atom-ide-ui@0.13.0
+├── autocomplete-clang@0.12.0
+├── autosave-onchange@1.5.1 (disabled)
+├── busy-signal@2.0.1
+├── file-header@1.13.9
+├── go-debug@1.6.2 (disabled)
+├── go-plus@6.1.0 (disabled)
+├── go-signature-statusbar@1.2.3
+├── gpp-compiler@3.0.7
+├── intentions@1.1.5
+├── linter@2.3.0
+├── linter-gcc2@0.8.7 (disabled)
+├── linter-ui-default@1.7.1
+├── multi-cursor@2.1.5
+├── platformio-ide-terminal@2.9.1
+├── python-indent@1.2.3
+└── wakatime@7.1.1
+
