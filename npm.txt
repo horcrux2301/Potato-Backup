@@ -1,0 +1,6 @@
+/usr/local/lib
+├── fast-cli@2.3.0
+├── gatsby-cli@2.5.13
+├── npm@6.4.1
+└── npx@10.2.0
+
