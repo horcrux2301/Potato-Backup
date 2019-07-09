@@ -1,0 +1,57 @@
+Android Studio.app
+App Store.app
+Atom.app
+Automator.app
+BitBar.app
+Books.app
+Calculator.app
+Calendar.app
+Chess.app
+Contacts.app
+Dashboard.app
+Dictionary.app
+Evernote.app
+FaceTime.app
+Font Book.app
+GarageBand.app
+Google Chrome.app
+Home.app
+Image Capture.app
+Keynote.app
+Launchpad.app
+Magnet.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft OneNote.app
+Mission Control.app
+News.app
+Notes.app
+Notion.app
+Numbers.app
+Pages.app
+Photo Booth.app
+Photos.app
+Pock.app
+Preview.app
+Python 3.7
+QuickTime Player.app
+Reminders.app
+Safari.app
+Siri.app
+Stickies.app
+Stocks.app
+Sublime Text.app
+System Preferences.app
+TeX
+TextEdit.app
+Time Machine.app
+Trello.app
+Utilities
+VLC.app
+Visual Studio Code.app
+VoiceMemos.app
+Xcode.app
+iMovie.app
+iTerm.app
+iTunes.app
