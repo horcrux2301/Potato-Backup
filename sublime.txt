@@ -1,0 +1,4 @@
+ls: /Users/harshkhajuria/Library/Application: No such file or directory
+ls: 3/Packages: No such file or directory
+ls: Support/Sublime: No such file or directory
+ls: Text: No such file or directory
