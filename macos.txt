@@ -18,6 +18,7 @@ Google Chrome.app
 Home.app
 Image Capture.app
 Keynote.app
+LICEcap.app
 Launchpad.app
 Magnet.app
 Mail.app

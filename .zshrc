@@ -115,4 +115,5 @@ export EDITOR='vim'
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=6'
 
 export PATH=$PATH:/usr/local/go/bin
-export GOPATH=$HOME/go
+export GOPATH="$HOME/go"
+PATH="$GOPATH/bin:$PATH"
