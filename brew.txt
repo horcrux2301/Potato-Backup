@@ -5,6 +5,7 @@ highlight
 libav
 opencv
 pkg-config
+horcrux2301/tap/potato
 texi2html
 tmux
 uncrustify
